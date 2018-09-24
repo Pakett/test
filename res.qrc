@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>platfrom.png</file>
+        <file>Doodler.png</file>
+        <file>enemy.png</file>
+    </qresource>
+</RCC>
